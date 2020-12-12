@@ -5,6 +5,6 @@ Francesco then uses the different libraries to create a convolutional neural net
 
 Francesco would then train the CNN model for 10 EPOCHS or 10 reps to complete the task. I played around with the architecture and figured that it would best if I increased the number of nodes in the convolution and hidden layers to create a better model.
 
-#Demo
+# Demo
 
 https://youtu.be/y_QNbZBLoNE
